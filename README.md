@@ -1,0 +1,13 @@
+https://github.com/nrossidb/nrossidb/commit/4c43bd6d271da5bffaddae1a694f88cb1f56f0b4
+
+- 👋 Hi, I’m @nrossidb
+
+- 👀 I’m interested in ...
+
+- 🌱 I’m currently learning ...
+
+- 💞️ I’m looking to collaborate on ...
+
+- 📫 How to reach me ...
+
+-->
