@@ -2,7 +2,7 @@
 
 I'm a huge nerd with a passion for data, stats, and all things numbers.
 
-I am an aspiring Data Scientist who recently made the decision to leave my career in entrepreneurship and finance to pursue Data Science full time. My self-starter attitude and analytical background has lead me to the wonderful worlds of Python and SQL.
+I am a Data Scientist who recently made the decision to leave my career in entrepreneurship and finance to pursue Data Science full time. My self-starter attitude and analytical background has lead me to the wonderful worlds of Python and SQL.
 
 ## :tada:Fun Facts
 - :chart_with_upwards_trend: I’m interested in Data Visualization, Machine Learning, and Automation
