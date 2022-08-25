@@ -9,7 +9,7 @@ I am an aspiring Data Scientist who recently made the decision to leave my caree
 
 - :cloud: I’m currently learning cloud computing! Diving headfirst into the worlds of AWS and Snowflake
 
-- :guitar: Some of my hobbies include electric gutiar, fitness, and supporting my favorite sports teams (Lets Go Mets, Devils, and Giants!)
+- :guitar: Some of my hobbies include electric guitar, fitness, and supporting my favorite sports teams (Lets Go Mets, Devils, and Giants!)
 
 - 📫 Reach me at nrossi3654@gmail.com
 
