@@ -1,6 +1,5 @@
-/header.png
+![](/header.png)
 
-- 👋 Hi, I’m @nrossidb
 
 - 👀 I’m interested in ...
 
