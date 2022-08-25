@@ -10,4 +10,6 @@
 
 - 📫 How to reach me ...
 
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrossidb)](https://github.com/nrossidb&theme=cobalt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrossidb)](https://github.com/nrossidb/github-readme-stats)
 -->
